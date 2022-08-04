@@ -1,9 +1,8 @@
 import React from 'react'
-import Tab from 'react-bootstrap/Tab';
-import Nav from 'react-bootstrap/Nav';
+
 const Marketing = () => {
     const dataflow = [
-        { id: 1, icon: "fa-solid fa-envelope", time: "one", name: "Activation Emails", exmaple: "8" }, { id: 2, icon: "fa-solid fa-arrow-right-arrow-left", time: "two", name: "Activity Summary Email", exmaple: "8" },
+        { id: 1, icon: "fa-solid fa-envelope", time: "one", name: "404 Page", exmaple: "29" }, { id: 2, icon: "fa-solid fa-arrow-right-arrow-left", time: "two", name: "Activity Summary Email", exmaple: "8" },
         { id: 3, icon: "fa-solid fa-envelope-open-text", time: "three", name: "Invitation Emails", exmaple: "6" }, { id: 4, icon: "fa-solid fa-arrows-down-to-people", time: "four", name: "Invite Your Team Emails", exmaple: "27" },
         { id: 5, icon: "fa-solid fa-bag-shopping", time: "one", name: "Onboarding Email Flow", exmaple: "11" }, { id: 6, icon: "fa-solid fa-clapperboard", time: "two", name: "Product Hunt Emails", exmaple: "6" },
         { id: 7, icon: "fa-solid fa-bolt", time: "three", name: "Security", exmaple: "26" }, { id: 8, icon: "fa-solid fa-bookmark", time: "four", name: "Lighthe Performance insights", exmaple: "17" },
