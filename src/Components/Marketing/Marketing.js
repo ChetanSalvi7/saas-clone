@@ -28,7 +28,7 @@ const Marketing = () => {
                             </div>
                         </>
                     )
-                })}
+                })} 
 
 
             </div>
